@@ -1,1 +1,1 @@
-# Practicals
+This project presents an interactive RetailPulse Sales Report created using IBM Cognos Analytics. It focuses on organizing and visualizing retail sales data to analyze product performance, sales trends, and business insights. The report demonstrates data reporting and visualization skills using IBM Cognos Analytics.
